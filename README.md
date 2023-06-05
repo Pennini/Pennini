@@ -6,7 +6,7 @@
 ![Pennini Stats](https://github-readme-stats.vercel.app/api?username=Pennini&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pennini&theme=dracula)](https://github.com/Pennini/github-readme-stats)
 
-![Cobrinha](https://github.com/Pennini/Pennini/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Pennini/Pennini/blob/master/assets/github-contribution-grid-snake.svg)
 
 ## Tecnologias que estou aprendendo/Tenho contato 🧑‍💻
 
