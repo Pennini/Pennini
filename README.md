@@ -1,4 +1,4 @@
-### Bem vindo! Eu sou o André Pennini 🙏👋
+![github-header-image](https://github.com/Pennini/Pennini/assets/135245057/5ea3fb48-9ccc-4321-87d1-42bc43b33233)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrepennini)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrepennini)
