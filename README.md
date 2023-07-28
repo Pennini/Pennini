@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pennini&layout=compact&hide_border=true&title_color=6272a4&text_color=c9d1d9&bg_color=282a36" />
 </div>
 
-![snake gif](https://github.com/Pennini/Pennini/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pennini/Pennini/blob/output/github-contribution-grid-snake.gif)
 
 ## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrepennini)
