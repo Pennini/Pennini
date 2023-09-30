@@ -12,7 +12,7 @@
 <div align="center">
   
   ## Social Media:
-  <a href="https://www.linkedin.com/in/andrepennini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrepennini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   
   ## Tools:
   <div style="display: inline-block;">
