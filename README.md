@@ -15,17 +15,12 @@
   <a href="https://www.linkedin.com/in/andrepennini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   
   ## Tools:
-  <div style="display: inline-block;">
-    <img alt="VSCODE" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img alt="Git" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Github" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="Windows" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </div>
+  [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,anaconda,discord,powershell,stackoverflow)](https://skillicons.dev)
   
   ## Studying:
   
   ### Languages:
-  [![My Languages](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
+  [![My Languages](https://skillicons.dev/icons?i=py,js,html,css,postgres)](https://skillicons.dev)
   
   ### Frameworks:
   [![My frameworks](https://skillicons.dev/icons?i=django,flask,bootstrap)](https://skillicons.dev)
@@ -34,6 +29,9 @@
   <div style="display: inline-block;">
     <img alt="Pandas" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     <img alt="Numpy" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+    <img alt="Scikit-learn" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img alt="Tensorflow" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    <img alt="Selenium" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
   </div>
 </div>
 
